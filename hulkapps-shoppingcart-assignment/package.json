@@ -1,0 +1,24 @@
+{
+  "name": "hulkapps-shoppingcart-assignment",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build"
+  },
+  "dependencies": {
+    "bootstrap": "^5.1.3",
+    "core-js": "^3.8.3",
+    "mdb-vue-ui-kit": "^1.14.0",
+    "vue": "^3.2.13",
+    "vue3-carousel": "^0.1.40",
+    "vuex": "^4.0.0"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "~5.0.0",
+    "@vue/cli-plugin-vuex": "~5.0.0",
+    "@vue/cli-service": "~5.0.0",
+    "sass": "^1.32.7",
+    "sass-loader": "^12.0.0"
+  }
+}
